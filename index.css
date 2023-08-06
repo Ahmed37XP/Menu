@@ -1,0 +1,310 @@
+body{
+    margin: 0;
+}
+
+
+#logo{
+    width: 200px;
+}
+.img-div{
+    text-align: center;
+    background-color: #E7DAC7;
+    white-space: nowrap;
+}
+
+#order{
+    width: 50px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#lang{
+    width: 70px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 25px;
+
+
+}
+
+#btn-lang{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 70px;
+    padding: 10px;
+    background-color: antiquewhite;
+    
+}
+
+#other-lang{
+    background-color: antiquewhite;
+    height: 80px;
+    border-radius: 15px;
+    display: none;
+   
+    
+    
+}
+
+.lang-select{
+    border: none;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    
+    text-align: center;
+}
+
+#back{
+    border: none;
+    background-color: antiquewhite;
+    padding: 0;
+    
+
+}
+
+.inner{
+    height: 150px;
+    width: 93%;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background: url(60ff1914f350d50019590549-fotor-20230806214010.png);
+    background-size: cover;
+    display: relative;
+    animation: 1s slide;
+   
+
+    
+ }
+
+ .inner1{
+    height: 150px;
+    width: 93%;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background: url(Chopped-Salad-001_1-fotor-20230806215224.png);
+    background-size: cover;
+    display: relative;
+    animation: 1.1s slide;
+    
+   
+
+    
+ }
+
+ .inner2{
+    height: 150px;
+    width: 93%;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background: url(11056_background_1984x900-fotor-20230806221641.png);
+    background-size: cover;
+    display: relative;
+    animation: 1.2s slide;
+    
+   
+
+    
+ }
+
+ .inner3{
+    height: 150px;
+    width: 93%;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background: url(360_F_245783019_6LWMSlWBTFnggdJOAaIyqu4jOXlufB0b.jpg);
+    background-size: cover;
+    display: relative;
+    animation: 1.3s slide;
+    
+   
+
+    
+ }
+
+ .inner4{
+    height: 150px;
+    width: 93%;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background: url(watermelon-and-gin-slushies-126036-2.jpg);
+    background-size: cover;
+    display: relative;
+    animation: 1.4s slide;
+    
+   
+
+    
+ }
+
+.outter{
+    text-align: center;
+    
+}
+
+.text{
+    display: absolute;
+    color: antiquewhite;
+    
+}
+.text-div{
+    height: 150px;
+    text-align: center;
+    padding: 30px;
+}
+
+.show-item{
+    text-align: end;
+}
+.showmore{
+    background: none;
+    color: antiquewhite;
+    border-radius: 15px;
+    border-color: antiquewhite;
+}
+
+.showmore1{
+    background: none;
+    color: antiquewhite;
+    border-radius: 15px;
+    border-color: antiquewhite;
+}
+
+.showmore2{
+    background: none;
+    color: antiquewhite;
+    border-radius: 15px;
+    border-color: antiquewhite;
+}
+
+.showmore3{
+    background: none;
+    color: antiquewhite;
+    border-radius: 15px;
+    border-color: antiquewhite;
+}
+
+.showmore4{
+    background: none;
+    color: antiquewhite;
+    border-radius: 15px;
+    border-color: antiquewhite;
+}
+
+
+
+.items{
+    height: 500px;
+    border: 2px solid black;
+    width: 93%;
+    margin: 20px;
+    border-radius: 15px;
+    display: none;
+    animation: 1s up;
+}
+
+.items1{
+    height: 500px;
+    border: 2px solid black;
+    width: 93%;
+    margin: 20px;
+    border-radius: 15px;
+    display: none;
+    animation: 1s up;
+
+}
+
+.items2{
+    height: 500px;
+    border: 2px solid black;
+    width: 93%;
+    margin: 20px;
+    border-radius: 15px;
+    display: none;
+    animation: 1s up;
+
+}
+
+.items3{
+    height: 500px;
+    border: 2px solid black;
+    width: 93%;
+    margin: 20px;
+    border-radius: 15px;
+    display: none;
+    animation: 1s up;
+
+}
+
+
+.items4{
+    height: 500px;
+    border: 2px solid black;
+    width: 93%;
+    margin: 20px;
+    border-radius: 15px;
+    display: none;
+    animation: 1s up;
+
+}
+
+
+.items-back{
+    text-align: end;
+}
+
+#item-back-btn{
+    border: none;
+    padding: 10px;
+    background: none;
+}
+
+.form-div{
+    text-align: center;
+    padding: 20px;
+}
+
+#name{
+    background-color: antiquewhite;
+    color: black;
+    animation: 1s up;
+}
+
+#table{
+    background-color: antiquewhite;
+    color: black;
+    animation: 1s up;
+}
+
+#your-order{
+    background-color: antiquewhite;
+    color: black;
+    border: 2px solid black;
+    animation: 1s up;
+}
+
+#form-submit{
+    background-color: antiquewhite;
+    border-radius: 15px;
+    padding: 10px;
+    width: 100px;
+    animation: 2s up;
+}
+
+
+
+
+
+@keyframes slide{
+    from{transform: translateX(100%)}
+}
+
+@keyframes up{
+    from{transform: translateY(1000%)}
+}
+
